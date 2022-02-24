@@ -1,6 +1,6 @@
 export default {
-  name: "works",
-  title: "Works",
+  name: "worksSm",
+  title: "WorksSm",
   type: "document",
   fields: [
     {
